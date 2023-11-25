@@ -1,0 +1,4 @@
+OCDT!√ Wi-Fi (Internet)    √ Water Heater       Self Service Laundry Facilities are available on ‘Pay as you use’ basis.!100!OCDT1-OCDT100!98!790!2
+OCDS!√ Wi-Fi (Internet)    √ Water Heater  √ Self Service Laundry Facilities are available on ‘Pay as you use’ basis.!100!OCDS1-OCDS100!99!1450!1
+ST!ALL ROOMS are equipped with basic amenities including Bed, Wardrobe and Study Tables.!50!ST1-ST50!47!590!3
+SKSP!√ Wi-Fi (Internet)    √ Water Heater   √ Cooking!30!SKSP1-SKSP30!30!1680!1
